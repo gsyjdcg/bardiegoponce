@@ -1,0 +1,7 @@
+{
+  "name": "bardiegoponce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
