@@ -4,9 +4,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   inkscape:export-ydpi="6.3483768"
+   inkscape:export-xdpi="6.3483768"
+   inkscape:export-filename="D:\Programacion\www\bardiegoponce\src\assets\img\logo-header.png"
+   width="114.50896"
+   height="44.999996"
+   viewBox="0 0 30.297161 11.906249"
    version="1.1"
    id="svg6"
    inkscape:version="1.1-dev (ee0c38c, 2020-05-22)"
@@ -14,6 +17,12 @@
   <defs
      id="defs2" />
   <sodipodi:namedview
+     lock-margins="true"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     units="px"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -21,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1110.4378"
-     inkscape:cy="336.46496"
+     inkscape:cx="1009.1239"
+     inkscape:cy="259.12733"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -32,11 +41,15 @@
      inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <g
+     transform="translate(-26.805981,-20.462247)"
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g881">
+       transform="matrix(0.06612892,0,0,0.06612892,11.572625,12.725163)"
+       inkscape:export-ydpi="6.3201604"
+       inkscape:export-xdpi="6.3201604"
+       id="g903">
       <ellipse
          style="fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:14.5197;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle841"
@@ -45,7 +58,7 @@
          rx="90.699776"
          ry="90" />
       <rect
-         style="opacity:1;fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:6.51654;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:6.51654;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect831"
          width="278.87082"
          height="180"

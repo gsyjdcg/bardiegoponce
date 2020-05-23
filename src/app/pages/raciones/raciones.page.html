@@ -1,6 +1,6 @@
 <ion-header [translucent]="true">
   <ion-toolbar color="app">
-    <ion-img class="ion-margin-start" src="./assets/img/logo-header.png" alt="" slot="start"></ion-img>
+    <ion-img class="ion-margin-start" src="./assets/img/logo-header.svg" alt="" slot="start"></ion-img>
     <ion-title>
       <ion-label class="ion-text-uppercase title">Raciones</ion-label>
     </ion-title>
@@ -18,7 +18,7 @@
     <ion-item *ngFor="let racion of racionesService?.raciones">
       <ion-label>
         <ion-text><h1>{{racion.nombre}}</h1></ion-text>
-        <p>{{racion.precio | currency:'EUR':'symbol'}}</p>
+        <p>{{racion.precio | currency:'EUR':true}}</p>
       </ion-label>
     </ion-item>
   </ion-list>
