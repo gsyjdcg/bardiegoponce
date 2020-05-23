@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590246128865,
+  "timestamp": 1590249534704,
   "index": "https://gsyjdcg.github.io/bardiegoponce/index.html",
   "assetGroups": [
     {
@@ -223,6 +223,8 @@
         "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-512x512.png",
         "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-72x72.png",
         "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-96x96.png",
+        "https://gsyjdcg.github.io/bardiegoponce/assets/logo/logo.svg",
+        "https://gsyjdcg.github.io/bardiegoponce/assets/qr/qr-code.svg",
         "https://gsyjdcg.github.io/bardiegoponce/assets/shapes.svg"
       ],
       "patterns": []
@@ -411,15 +413,17 @@
     "https://gsyjdcg.github.io/bardiegoponce/assets/data/bocatines.json": "bdcc19c1ef23e03fd2e20dc1f6f8271db1808128",
     "https://gsyjdcg.github.io/bardiegoponce/assets/data/raciones.json": "59613b05436b709000ef2e7a93fb98379e8b70be",
     "https://gsyjdcg.github.io/bardiegoponce/assets/data/tapas.json": "f27064fcaac557a245b35dba37ab36b8c16b2589",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icon/favicon.png": "7798b8e0eb61d7375c245af78bbf5c916932bf13",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icon/favicon.png": "5ad03d7694920a4cd21b509c8095262993a02cf4",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-128x128.png": "9c264209346eb20c030ce348fb81e38d01c90fc0",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-144x144.png": "19b2145a416415faf12a6b2189e0f8f79262291c",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-152x152.png": "b8bfebb60c6c44c4247ac51fda77b02931d04d82",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-192x192.png": "4069ae7c005b1abc79bd3e11294ed9bb17d26562",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-384x384.png": "2286d68ce15a0934dafa707acf36a11a24e1ec60",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-512x512.png": "4e8fd063368cd54bbdad97d27bdac63db013dc19",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-72x72.png": "a9d3cfabf86941e3e00149aa0a485ae0be6e282d",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-96x96.png": "a57690088ff12db3e110a98e85db56d0427c326c",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/logo/logo.svg": "587d5ab4b4168a232006f2c6790b0a68536d66c6",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/qr/qr-code.svg": "1d71e2b07e8bc7616767f6f7b5a1c3367dfc35b0",
     "https://gsyjdcg.github.io/bardiegoponce/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://gsyjdcg.github.io/bardiegoponce/common-es2015.0d05269b119005e7fe92.js": "ede6c6f3aee5e3b3a2f121c30fd8f40fabbdcd52",
     "https://gsyjdcg.github.io/bardiegoponce/common-es5.0d05269b119005e7fe92.js": "4e76339cb2cf9e58ec58a7ee9109cbbd546359a2",
