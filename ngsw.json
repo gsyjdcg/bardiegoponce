@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590253932600,
+  "timestamp": 1590254074715,
   "index": "https://gsyjdcg.github.io/bardiegoponce/index.html",
   "assetGroups": [
     {
@@ -434,7 +434,7 @@
     "https://gsyjdcg.github.io/bardiegoponce/index.html": "6d29e4e93d653a74eb2dcac3dee90fb181958871",
     "https://gsyjdcg.github.io/bardiegoponce/main-es2015.75e04529bb597c57de4c.js": "cab3f3c8bccc0ec0fb4f8207da1915f0f3ecd57f",
     "https://gsyjdcg.github.io/bardiegoponce/main-es5.75e04529bb597c57de4c.js": "1b1523fa01dff533c44deff68c5de90dbab5e1d0",
-    "https://gsyjdcg.github.io/bardiegoponce/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
+    "https://gsyjdcg.github.io/bardiegoponce/manifest.webmanifest": "60833ed5b8aafabac6a0cbb67df3d746ec431836",
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-core-js-es2015.cd94bb94abe4de4673b0.js": "fe18301772fedd9faed9155d0253b25bad547329",
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-core-js-es5.cd94bb94abe4de4673b0.js": "2238555b018c094b6a5445b2ea64d26959264b3a",
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-css-shim-es2015.097ad57c9623102bfb3b.js": "b012b421ba37e810766f54fd6ef5a11e248d22a6",
