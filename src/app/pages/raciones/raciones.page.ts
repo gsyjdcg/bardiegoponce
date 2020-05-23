@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { RacionesService } from 'src/services/raciones.service';
 
 @Component({
   selector: 'app-raciones',
@@ -6,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['raciones.page.scss']
 })
 export class RacionesPage {
-
-  constructor() {}
-
+  constructor(public racionesService: RacionesService) {
+    this.racionesService.load();
+  }
 }

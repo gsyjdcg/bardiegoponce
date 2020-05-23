@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { BocatinesService } from 'src/services/bocatines.service';
 
 @Component({
   selector: 'app-bocatines',
@@ -6,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['bocatines.page.scss']
 })
 export class BocatinesPage {
-
-  constructor() {}
-
+  constructor(public bocatinesService: BocatinesService) {
+    this.bocatinesService.load();
+  }
 }

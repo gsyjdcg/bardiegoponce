@@ -1,7 +1,7 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      <ion-label>Bar Diego Ponce</ion-label>
+      <ion-label>Tapas - Bar Diego Ponce</ion-label>
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -13,12 +13,12 @@
     </ion-toolbar>
   </ion-header>
 
-  <ion-list *ngIf="!tapasService.tapas?.length">
+  <ion-list *ngIf="!tapasService?.tapas?.length">
     No se han encontrado datos
   </ion-list>
 
-  <ion-list *ngIf="tapasService.tapas.length">
-    <ion-item *ngFor="let tapa of tapasService.tapas">
+  <ion-list *ngIf="tapasService?.tapas?.length">
+    <ion-item *ngFor="let tapa of tapasService?.tapas">
       <ion-label>
         <ion-text> {{tapa.nombre}}</ion-text>
         <p>{{tapa.precio | currency:'EUR':'symbol'}}</p>

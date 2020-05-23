@@ -1,0 +1,28 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Bocatines - Bar Diego Ponce
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Bocatines</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-list *ngIf="!bocatinesService?.bocatines?.length">
+    No se han encontrado datos
+  </ion-list>
+
+  <ion-list *ngIf="bocatinesService?.bocatines?.length">
+    <ion-item *ngFor="let bocatin of bocatinesService?.bocatines">
+      <ion-label>
+        <ion-text> {{bocatin.nombre}}</ion-text>
+        <p>{{bocatin.precio | currency:'EUR':'symbol'}}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

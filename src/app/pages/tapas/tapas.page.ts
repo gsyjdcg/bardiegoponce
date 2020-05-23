@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { TapasService, Tapa } from './tapas.service';
+import { TapasService, Tapa } from '../../../services/tapas.service';
 
 @Component({
   selector: 'app-tapas',
