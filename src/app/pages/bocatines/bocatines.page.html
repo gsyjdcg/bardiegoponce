@@ -1,17 +1,18 @@
 <ion-header [translucent]="true">
-  <ion-toolbar>
+  <ion-toolbar color="app">
+    <ion-img class="ion-margin-start" src="./assets/img/logo-header.png" alt="" slot="start"></ion-img>
     <ion-title>
-      Bocatines - Bar Diego Ponce
+      <ion-label class="ion-text-uppercase title">Bocatines</ion-label>
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
+  <!-- <ion-header collapse="condense">
     <ion-toolbar>
       <ion-title size="large">Bocatines</ion-title>
     </ion-toolbar>
-  </ion-header>
+  </ion-header> -->
 
   <ion-list *ngIf="!bocatinesService?.bocatines?.length">
     No se han encontrado datos
