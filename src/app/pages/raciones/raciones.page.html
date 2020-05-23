@@ -14,14 +14,10 @@
     </ion-toolbar>
   </ion-header> -->
 
-  <ion-list *ngIf="!racionesService?.raciones?.length">
-    No se han encontrado datos
-  </ion-list>
-
   <ion-list *ngIf="racionesService?.raciones?.length">
     <ion-item *ngFor="let racion of racionesService?.raciones">
       <ion-label>
-        <ion-text> {{racion.nombre}}</ion-text>
+        <ion-text><h1>{{racion.nombre}}</h1></ion-text>
         <p>{{racion.precio | currency:'EUR':'symbol'}}</p>
       </ion-label>
     </ion-item>

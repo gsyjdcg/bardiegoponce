@@ -14,14 +14,10 @@
     </ion-toolbar>
   </ion-header> -->
 
-  <ion-list *ngIf="!bocatinesService?.bocatines?.length">
-    No se han encontrado datos
-  </ion-list>
-
   <ion-list *ngIf="bocatinesService?.bocatines?.length">
     <ion-item *ngFor="let bocatin of bocatinesService?.bocatines">
       <ion-label>
-        <ion-text> {{bocatin.nombre}}</ion-text>
+        <ion-text><h1>{{bocatin.nombre}}</h1></ion-text>
         <p>{{bocatin.precio | currency:'EUR':'symbol'}}</p>
       </ion-label>
     </ion-item>

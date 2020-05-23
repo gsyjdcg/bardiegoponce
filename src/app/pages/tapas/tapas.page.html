@@ -14,10 +14,6 @@
     </ion-toolbar>
   </ion-header> -->
 
-  <ion-list *ngIf="!tapasService?.tapas?.length">
-    No se han encontrado datos
-  </ion-list>
-
   <ion-list *ngIf="tapasService?.tapas?.length">
     <ion-item *ngFor="let tapa of tapasService?.tapas">
       <ion-label>
