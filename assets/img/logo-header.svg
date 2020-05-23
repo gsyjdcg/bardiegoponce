@@ -4,6 +4,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="6.3483768"
+   inkscape:export-xdpi="6.3483768"
+   inkscape:export-filename="D:\Programacion\www\bardiegoponce\src\assets\img\logo-header.png"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
@@ -36,7 +39,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g881">
+       inkscape:export-ydpi="6.3201604"
+       inkscape:export-xdpi="6.3201604"
+       id="g903">
       <ellipse
          style="fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:14.5197;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle841"
@@ -45,7 +50,7 @@
          rx="90.699776"
          ry="90" />
       <rect
-         style="opacity:1;fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:6.51654;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#a02c2c;fill-opacity:1;stroke:none;stroke-width:6.51654;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect831"
          width="278.87082"
          height="180"
