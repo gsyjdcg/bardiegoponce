@@ -13,5 +13,16 @@
     </ion-toolbar>
   </ion-header>
 
-  <app-explore-container name="Listado de Tapas"></app-explore-container>
+  <ion-list *ngIf="!tapasService.tapas?.length">
+    No se han encontrado datos
+  </ion-list>
+
+  <ion-list *ngIf="tapasService.tapas.length">
+    <ion-item *ngFor="let tapa of tapasService.tapas">
+      <ion-label>
+        <ion-text> {{tapa.nombre}}</ion-text>
+        <p>{{tapa.precio | currency:'EUR':'symbol'}}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
 </ion-content>

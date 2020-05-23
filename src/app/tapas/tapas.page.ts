@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { TapasService, Tapa } from './tapas.service';
 
 @Component({
   selector: 'app-tapas',
@@ -6,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['tapas.page.scss']
 })
 export class TapasPage {
-
-  constructor() {}
-
+  constructor(public tapasService: TapasService) {
+    this.tapasService.load();
+  }
 }
