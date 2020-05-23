@@ -36,96 +36,111 @@
     },
     {
         "id": 8,
-        "nombre": "Anchoas y roquefort",
+        "nombre": "Chorizo, huevo y pimiento",
         "precio": 2
     },
     {
         "id": 9,
-        "nombre": "Boquerones en vinagre con morrón",
+        "nombre": "Lomo con huevo",
         "precio": 2
     },
     {
         "id": 10,
-        "nombre": "Atún, boquitas, lechuga y mahonesa",
+        "nombre": "Lomo, jamón y pimiento",
         "precio": 2
     },
     {
         "id": 11,
-        "nombre": "Huevo duro, lechuga morrón y mahonesa",
+        "nombre": "Anchoas y roquefort",
         "precio": 2
     },
     {
         "id": 12,
-        "nombre": "Gamba, lechuga y salsa rosa",
+        "nombre": "Boquerones en vinagre con morrón",
         "precio": 2
     },
     {
         "id": 13,
-        "nombre": "Jamón reserva",
+        "nombre": "Atún, boquitas, lechuga y mahonesa",
         "precio": 2
     },
     {
         "id": 14,
-        "nombre": "Queso mezcla",
+        "nombre": "Huevo duro, lechuga morrón y mahonesa",
         "precio": 2
     },
     {
         "id": 15,
-        "nombre": "Filete de pollo",
+        "nombre": "Gamba, lechuga y salsa rosa",
         "precio": 2
     },
     {
         "id": 16,
-        "nombre": "Filete de cerdo",
+        "nombre": "Jamón reserva",
         "precio": 2
     },
     {
         "id": 17,
-        "nombre": "Tortilla de patatas",
+        "nombre": "Queso mezcla",
         "precio": 2
     },
     {
         "id": 18,
-        "nombre": "Tortilla de atún",
+        "nombre": "Filete de pollo",
         "precio": 2
     },
     {
         "id": 19,
-        "nombre": "Tortilla de queso",
+        "nombre": "Filete de cerdo",
         "precio": 2
     },
     {
         "id": 20,
-        "nombre": "Tortilla de jamón",
+        "nombre": "Tortilla de patatas",
         "precio": 2
     },
     {
         "id": 21,
-        "nombre": "Tortilla francesa",
+        "nombre": "Tortilla de atún",
         "precio": 2
     },
     {
         "id": 22,
-        "nombre": "Tortilla de chorizo",
+        "nombre": "Tortilla de queso",
         "precio": 2
     },
     {
         "id": 23,
-        "nombre": "Caballa con tomate natural",
+        "nombre": "Tortilla de jamón",
         "precio": 2
     },
     {
         "id": 24,
+        "nombre": "Tortilla francesa",
+        "precio": 2
+    },
+    {
+        "id": 25,
+        "nombre": "Tortilla de chorizo",
+        "precio": 2
+    },
+    {
+        "id": 26,
+        "nombre": "Caballa con tomate natural",
+        "precio": 2
+    },
+    {
+        "id": 27,
         "nombre": "Lomo en manteca",
         "precio": 2
     },
     {
-        "id": 20,
+        "id": 28,
         "nombre": "Chorizo al vino",
         "precio": 2
     },
     {
-        "id": 20,
+        "id": 29,
         "nombre": "Atún con tomate",
         "precio": 2
     }
