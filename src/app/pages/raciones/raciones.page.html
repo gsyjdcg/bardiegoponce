@@ -17,7 +17,9 @@
   <ion-list *ngIf="racionesService?.raciones?.length">
     <ion-item *ngFor="let racion of racionesService?.raciones">
       <ion-label>
-        <ion-text><h1>{{racion.nombre}}</h1></ion-text>
+        <ion-text>
+          <h1 class="ion-text-wrap">{{racion.nombre}}</h1>
+        </ion-text>
         <p>{{racion.precio | currency:'EUR':true}}</p>
       </ion-label>
     </ion-item>
