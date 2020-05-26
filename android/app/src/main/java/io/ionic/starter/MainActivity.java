@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package www.bardiegoponce.com;
 
 import android.os.Bundle;
 
