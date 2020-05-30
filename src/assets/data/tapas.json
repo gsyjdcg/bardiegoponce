@@ -831,5 +831,145 @@
         },
         "tipo": "raciones",
         "allergens": []
+    },
+    {
+        "id": 86,
+        "name": "Ensalada mista (2 personas)",
+        "categoria": "Entremeses",
+        "price": {
+            "precio": 6
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 87,
+        "name": "Queso mezcla semicurado",
+        "categoria": "Entremeses",
+        "price": {
+            "precio": 8.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 88,
+        "name": "Jamón serrano (reserva)",
+        "categoria": "Entremeses",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 89,
+        "name": "Ensalada de pimientos asados",
+        "categoria": "Entremeses",
+        "price": {
+            "precio": 6
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 90,
+        "name": "Bandeja de embutido ibérico",
+        "categoria": "Entremeses",
+        "price": {
+            "precio": 10.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 91,
+        "name": "Sopa de picadillo",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 3.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 92,
+        "name": "Callos caseros con garbanzos",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 4.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 93,
+        "name": "Porra (salmorejo)",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 94,
+        "name": "Gazpacho (temporada)",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 3.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 95,
+        "name": "Ensaladilla rusa",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 5.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 96,
+        "name": "Ensaladilla de marisco",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 5.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 97,
+        "name": "Migas caseras de pan",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 6.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 98,
+        "name": "Manitas de cerdo",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 6
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 99,
+        "name": "Lasaña casera",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 7
+        },
+        "tipo": "raciones",
+        "allergens": []
     }
 ]
