@@ -2,9 +2,12 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 export interface Tapa {
-  id: number;
-  nombre: string;
-  precio: number
+  id: string;
+  name: string;
+  image?: string;
+  price: { one?: number, half?: number, tapa?: number, precio?: number };
+  tipo: string;
+  allergens?: Array<string>;
 }
 
 @Injectable({
@@ -16,10 +19,12 @@ export class TapasService {
   constructor(protected http: HttpClient) {
   }
 
-  load(): void {
+  load(tipo: string): void {
     this.http.get('assets/data/tapas.json').subscribe(
       (tapas: Array<Tapa>) => {
-        this.tapas = tapas;
+        if (tapas?.length) {
+          this.tapas = tapas.filter(t => t.tipo === tipo);
+        }
       },
       (error) => {
         console.log(error);

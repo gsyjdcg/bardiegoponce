@@ -8,27 +8,19 @@ const routes: Routes = [
     component: TabsPage,
     children: [
       {
-        path: 'tapas',
+        path: 'tapas/:tipo',
         loadChildren: () => import('../tapas/tapas.module').then(m => m.TapasPageModule)
       },
       {
-        path: 'bocatines',
-        loadChildren: () => import('../bocatines/bocatines.module').then(m => m.BocatinesPageModule)
-      },
-      {
-        path: 'raciones',
-        loadChildren: () => import('../raciones/raciones.module').then(m => m.RacionesPageModule)
-      },
-      {
         path: '',
-        redirectTo: '/tabs/tapas',
+        redirectTo: '/tabs/tapas/tapas',
         pathMatch: 'full'
       }
     ]
   },
   {
     path: '',
-    redirectTo: '/tabs/tapas',
+    redirectTo: '/tabs/tapas/tapas',
     pathMatch: 'full'
   }
 ];
