@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 
 export interface Tapa {
   id: string;
+  numero: number;
   name: string;
   image?: string;
   price: { one?: number, half?: number, tapa?: number, precio?: number };

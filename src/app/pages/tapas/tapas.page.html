@@ -18,7 +18,7 @@
     <ion-item *ngFor="let tapa of tapasService?.tapas">
       <ion-label>
         <ion-text>
-          <h1 class="ion-text-wrap">{{tapa.name}}</h1>
+          <h1 class="ion-text-wrap"><span *ngIf="tapa?.numero">{{tapa.numero}}. </span>{{tapa.name}}</h1>
         </ion-text>
 
         <ion-row *ngIf="tapa.allergens?.length">
