@@ -1,87 +1,806 @@
 [
     {
         "id": 1,
-        "nombre": "Lasaña casera",
-        "precio": 2
+        "name": "Lasaña casera",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 2,
-        "nombre": "Carne en salsa",
-        "precio": 2
+        "name": "Carne en salsa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 3,
-        "nombre": "Carne con tomate",
-        "precio": 2
+        "name": "Carne con tomate",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 4,
-        "nombre": "Menudillo de pollo",
-        "precio": 2
+        "name": "Menudillo de pollo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 5,
-        "nombre": "Albóndigas con tomate",
-        "precio": 2
+        "name": "Albóndigas con tomate",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 6,
-        "nombre": "Chorizo al vino",
-        "precio": 2
+        "name": "Chorizo al vino",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 7,
-        "nombre": "Migas caseras de pan",
-        "precio": 2
+        "name": "Migas caseras de pan",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 8,
-        "nombre": "Callos con garbanzos",
-        "precio": 2
+        "name": "Callos con garbanzos",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 9,
-        "nombre": "Porra con huevo y jamón",
-        "precio": 2
+        "name": "Porra con huevo y jamón",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 10,
-        "nombre": "Pimientos asados",
-        "precio": 2
+        "name": "Pimientos asados",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 11,
-        "nombre": "Ensaladilla rusa",
-        "precio": 2
+        "name": "Ensaladilla rusa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 12,
-        "nombre": "Ensaladilla de marisco",
-        "precio": 2
+        "name": "Ensaladilla de marisco",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 13,
-        "nombre": "Pincho de caballa",
-        "precio": 2
+        "name": "Pincho de caballa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 14,
-        "nombre": "Mini hamburgesa",
-        "precio": 2
+        "name": "Mini hamburgesa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 15,
-        "nombre": "Mini San Jacobo",
-        "precio": 2
+        "name": "Mini San Jacobo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 16,
-        "nombre": "Mini flamenquín",
-        "precio": 2
+        "name": "Mini flamenquín",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     },
     {
         "id": 17,
-        "nombre": "Mitad y midad de jamón y queso",
-        "precio": 2
+        "name": "Mitad y midad de jamón y queso",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
+    },
+    {
+        "id": 18,
+        "name": "Bacon y queso",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 19,
+        "name": "Bacon con huevo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 20,
+        "name": "Guarrito con queso",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 21,
+        "name": "Guarrito con huevo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 22,
+        "name": "Lomo adobado y queso",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 23,
+        "name": "Lomo adobado y huevo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 24,
+        "name": "Pollo, jamón y pimiento",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 25,
+        "name": "Chorizo, huevo y pimiento",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 26,
+        "name": "Lomo con huevo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 27,
+        "name": "Lomo, jamón y pimiento",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 28,
+        "name": "Anchoas y roquefort",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 29,
+        "name": "Boquerones en vinagre con morrón",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 30,
+        "name": "Atún, boquitas, lechuga y mahonesa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 31,
+        "name": "Huevo duro, lechuga morrón y mahonesa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 32,
+        "name": "Gamba, lechuga y salsa rosa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 33,
+        "name": "Jamón reserva",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 34,
+        "name": "Queso mezcla",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 35,
+        "name": "Filete de pollo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 36,
+        "name": "Filete de cerdo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 37,
+        "name": "Tortilla de patatas",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 38,
+        "name": "Tortilla de atún",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 39,
+        "name": "Tortilla de queso",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 40,
+        "name": "Tortilla de jamón",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 41,
+        "name": "Tortilla francesa",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 42,
+        "name": "Tortilla de chorizo",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 43,
+        "name": "Caballa con tomate natural",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 44,
+        "name": "Lomo en manteca",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 45,
+        "name": "Chorizo al vino",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 46,
+        "name": "Atún con tomate",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "bocatines",
+        "allergens": []
+    },
+    {
+        "id": 47,
+        "name": "Filetes de cerdo",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 8.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 48,
+        "name": "Filetes de pollo",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 8.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 49,
+        "name": "Higaditos de pollo al ajillo",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 8
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 50,
+        "name": "Albóndigas con tomate",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 8
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 51,
+        "name": "Chorizo al vino",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 8
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 52,
+        "name": "Taco de lomo en manteca",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 8.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 53,
+        "name": "Solomillo encebollado, pimienta a roquefort",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 12
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 54,
+        "name": "Secreto ibérico",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 12
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 55,
+        "name": "Carrillada ibérica al Pedro Ximénez",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 11
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 56,
+        "name": "Rabo de toro en su salsa",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 11
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 57,
+        "name": "Churrasco de cerdo",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 9
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 58,
+        "name": "Croquetas caseras",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 59,
+        "name": "Flamenquín casero",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 60,
+        "name": "San Jacobo casero",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 61,
+        "name": "Chuletitas de cordero",
+        "categoria": "Segundos platos",
+        "price": {
+            "precio": 12
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 62,
+        "name": "Conejo al ajillo",
+        "categoria": "Especialidades de la casa",
+        "price": {
+            "precio": 8.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 63,
+        "name": "Perdiz encebollada",
+        "categoria": "Especialidades de la casa",
+        "price": {
+            "precio": 14
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 64,
+        "name": "Venao en su salsa",
+        "categoria": "Especialidades de la casa",
+        "price": {
+            "precio": 12
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 65,
+        "name": "Jabalí en su salsa",
+        "categoria": "Especialidades de la casa",
+        "price": {
+            "precio": 12
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 66,
+        "name": "Tortilla de espárragos amargueros",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 8
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 67,
+        "name": "Tortilla de espárragos dulces",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 8
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 68,
+        "name": "Tortilla de gambas",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 69,
+        "name": "Tortilla de queso",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 7.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 70,
+        "name": "Tortilla de atún",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 7.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 71,
+        "name": "Tortilla de jamón",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 7.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 72,
+        "name": "Tortilla de patatas",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 7
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 73,
+        "name": "Tortilla especialidad de la casa (de todo)",
+        "categoria": "Tortilla",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 74,
+        "name": "Revuelto de tortilla de espárragos amargueros",
+        "categoria": "Revuelto de tortilla",
+        "price": {
+            "precio": 8.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 75,
+        "name": "Revuelto de tortilla de espárragos dulces",
+        "categoria": "Revuelto de tortilla",
+        "price": {
+            "precio": 8.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 76,
+        "name": "Revuelto de tortilla de gambas",
+        "categoria": "Revuelto de tortilla",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 77,
+        "name": "Revuelto de tortilla de patatas",
+        "categoria": "Revuelto de tortilla",
+        "price": {
+            "precio": 8
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 78,
+        "name": "Tortilla especialidad de la casa (de todo)",
+        "categoria": "Revuelto de tortilla",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 79,
+        "name": "Filete de rosada (Frita o Plancha)",
+        "categoria": "Pescados y mariscos",
+        "price": {
+            "precio": 12
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 80,
+        "name": "Pez espada a la plancha",
+        "categoria": "Pescados y mariscos",
+        "price": {
+            "precio": 11
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 81,
+        "name": "Chopitos (Fritos o Plancha)",
+        "categoria": "Pescados y mariscos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 82,
+        "name": "Gambas al pilpil",
+        "categoria": "Pescados y mariscos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 83,
+        "name": "Gambas a la plancha",
+        "categoria": "Pescados y mariscos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 84,
+        "name": "Gambas cocidas",
+        "categoria": "Pescados y mariscos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 85,
+        "name": "Gambas rebozadas",
+        "categoria": "Pescados y mariscos",
+        "price": {
+            "precio": 9.5
+        },
+        "tipo": "raciones",
+        "allergens": []
     }
 ]
