@@ -154,6 +154,7 @@
     },
     {
         "id": 18,
+        "numero": 1,
         "name": "Bacon y queso",
         "price": {
             "precio": 2
@@ -163,6 +164,7 @@
     },
     {
         "id": 19,
+        "numero": 2,
         "name": "Bacon con huevo",
         "price": {
             "precio": 2
@@ -172,6 +174,7 @@
     },
     {
         "id": 20,
+        "numero": 3,
         "name": "Guarrito con queso",
         "price": {
             "precio": 2
@@ -181,6 +184,7 @@
     },
     {
         "id": 21,
+        "numero": 4,
         "name": "Guarrito con huevo",
         "price": {
             "precio": 2
@@ -190,6 +194,7 @@
     },
     {
         "id": 22,
+        "numero": 5,
         "name": "Lomo adobado y queso",
         "price": {
             "precio": 2
@@ -199,6 +204,7 @@
     },
     {
         "id": 23,
+        "numero": 6,
         "name": "Lomo adobado y huevo",
         "price": {
             "precio": 2
@@ -208,6 +214,7 @@
     },
     {
         "id": 24,
+        "numero": 7,
         "name": "Pollo, jamón y pimiento",
         "price": {
             "precio": 2
@@ -217,6 +224,7 @@
     },
     {
         "id": 25,
+        "numero": 8,
         "name": "Chorizo, huevo y pimiento",
         "price": {
             "precio": 2
@@ -226,6 +234,7 @@
     },
     {
         "id": 26,
+        "numero": 9,
         "name": "Lomo con huevo",
         "price": {
             "precio": 2
@@ -235,6 +244,7 @@
     },
     {
         "id": 27,
+        "numero": 10,
         "name": "Lomo, jamón y pimiento",
         "price": {
             "precio": 2
@@ -244,6 +254,7 @@
     },
     {
         "id": 28,
+        "numero": 11,
         "name": "Anchoas y roquefort",
         "price": {
             "precio": 2
@@ -253,6 +264,7 @@
     },
     {
         "id": 29,
+        "numero": 12,
         "name": "Boquerones en vinagre con morrón",
         "price": {
             "precio": 2
@@ -262,6 +274,7 @@
     },
     {
         "id": 30,
+        "numero": 13,
         "name": "Atún, boquitas, lechuga y mahonesa",
         "price": {
             "precio": 2
@@ -271,6 +284,7 @@
     },
     {
         "id": 31,
+        "numero": 14,
         "name": "Huevo duro, lechuga morrón y mahonesa",
         "price": {
             "precio": 2
@@ -280,6 +294,7 @@
     },
     {
         "id": 32,
+        "numero": 15,
         "name": "Gamba, lechuga y salsa rosa",
         "price": {
             "precio": 2
@@ -289,6 +304,7 @@
     },
     {
         "id": 33,
+        "numero": 16,
         "name": "Jamón reserva",
         "price": {
             "precio": 2
@@ -298,6 +314,7 @@
     },
     {
         "id": 34,
+        "numero": 17,
         "name": "Queso mezcla",
         "price": {
             "precio": 2
@@ -307,6 +324,7 @@
     },
     {
         "id": 35,
+        "numero": 18,
         "name": "Filete de pollo",
         "price": {
             "precio": 2
@@ -316,6 +334,7 @@
     },
     {
         "id": 36,
+        "numero": 19,
         "name": "Filete de cerdo",
         "price": {
             "precio": 2
@@ -325,6 +344,7 @@
     },
     {
         "id": 37,
+        "numero": 20,
         "name": "Tortilla de patatas",
         "price": {
             "precio": 2
@@ -334,6 +354,7 @@
     },
     {
         "id": 38,
+        "numero": 21,
         "name": "Tortilla de atún",
         "price": {
             "precio": 2
@@ -343,6 +364,7 @@
     },
     {
         "id": 39,
+        "numero": 22,
         "name": "Tortilla de queso",
         "price": {
             "precio": 2
@@ -352,6 +374,7 @@
     },
     {
         "id": 40,
+        "numero": 23,
         "name": "Tortilla de jamón",
         "price": {
             "precio": 2
@@ -361,6 +384,7 @@
     },
     {
         "id": 41,
+        "numero": 24,
         "name": "Tortilla francesa",
         "price": {
             "precio": 2
@@ -370,6 +394,7 @@
     },
     {
         "id": 42,
+        "numero": 25,
         "name": "Tortilla de chorizo",
         "price": {
             "precio": 2
@@ -379,6 +404,7 @@
     },
     {
         "id": 43,
+        "numero": 26,
         "name": "Caballa con tomate natural",
         "price": {
             "precio": 2
@@ -388,6 +414,7 @@
     },
     {
         "id": 44,
+        "numero": 27,
         "name": "Lomo en manteca",
         "price": {
             "precio": 2
@@ -397,6 +424,7 @@
     },
     {
         "id": 45,
+        "numero": 28,
         "name": "Chorizo al vino",
         "price": {
             "precio": 2
@@ -406,6 +434,7 @@
     },
     {
         "id": 46,
+        "numero": 29,
         "name": "Atún con tomate",
         "price": {
             "precio": 2

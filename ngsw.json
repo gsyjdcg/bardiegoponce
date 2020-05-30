@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590856629269,
+  "timestamp": 1590857871925,
   "index": "https://gsyjdcg.github.io/bardiegoponce/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://gsyjdcg.github.io/bardiegoponce/16-es2015.3653d7c3f4a309fca775.js",
         "https://gsyjdcg.github.io/bardiegoponce/16-es5.3653d7c3f4a309fca775.js",
-        "https://gsyjdcg.github.io/bardiegoponce/17-es2015.3a63ad70f31893b876b4.js",
-        "https://gsyjdcg.github.io/bardiegoponce/17-es5.3a63ad70f31893b876b4.js",
+        "https://gsyjdcg.github.io/bardiegoponce/17-es2015.1880db4c0b9260c11c9b.js",
+        "https://gsyjdcg.github.io/bardiegoponce/17-es5.1880db4c0b9260c11c9b.js",
         "https://gsyjdcg.github.io/bardiegoponce/18-es2015.6f46a09387959d396aee.js",
         "https://gsyjdcg.github.io/bardiegoponce/18-es5.6f46a09387959d396aee.js",
         "https://gsyjdcg.github.io/bardiegoponce/19-es2015.d2e311171671cd4773d8.js",
@@ -196,8 +196,8 @@
         "https://gsyjdcg.github.io/bardiegoponce/polyfills-dom-es5.87674c2ba31dd21500f3.js",
         "https://gsyjdcg.github.io/bardiegoponce/polyfills-es2015.f4d09162f068ef1dd55d.js",
         "https://gsyjdcg.github.io/bardiegoponce/polyfills-es5.befa4caa6291a171b67f.js",
-        "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.5ddd73add8fc01051347.js",
-        "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.5ddd73add8fc01051347.js",
+        "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.e3e2d14dd28f15a71562.js",
+        "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.e3e2d14dd28f15a71562.js",
         "https://gsyjdcg.github.io/bardiegoponce/styles.78460c98c185ea7984cb.css"
       ],
       "patterns": []
@@ -229,8 +229,8 @@
   "hashTable": {
     "https://gsyjdcg.github.io/bardiegoponce/16-es2015.3653d7c3f4a309fca775.js": "9786361b16dc02dbc04fc8503fe7fe62e18c5807",
     "https://gsyjdcg.github.io/bardiegoponce/16-es5.3653d7c3f4a309fca775.js": "8054a9f7969f34f0574b84da8fdc6e960924df17",
-    "https://gsyjdcg.github.io/bardiegoponce/17-es2015.3a63ad70f31893b876b4.js": "ac13be53d99296906fe5e1ebb1097dbc4c672247",
-    "https://gsyjdcg.github.io/bardiegoponce/17-es5.3a63ad70f31893b876b4.js": "438d4117dd0184ed1da62e1eb7d22c1909feba0d",
+    "https://gsyjdcg.github.io/bardiegoponce/17-es2015.1880db4c0b9260c11c9b.js": "0e790f396fa3c606a80084792a3f6248d0f8e280",
+    "https://gsyjdcg.github.io/bardiegoponce/17-es5.1880db4c0b9260c11c9b.js": "06183a1e2dd65511678cc7eea306f0ecad2da824",
     "https://gsyjdcg.github.io/bardiegoponce/18-es2015.6f46a09387959d396aee.js": "ebd578e0fc2797825aa6d4d4d3737a4e89e194db",
     "https://gsyjdcg.github.io/bardiegoponce/18-es5.6f46a09387959d396aee.js": "32951c95a022e13a3d2a11cdf6a42cdfd27d4530",
     "https://gsyjdcg.github.io/bardiegoponce/19-es2015.d2e311171671cd4773d8.js": "d8ada65420451f83924d4142f6e660065034e3db",
@@ -401,7 +401,7 @@
     "https://gsyjdcg.github.io/bardiegoponce/94-es5.448fa5d215f1815c7f13.js": "073a5a179afd2e717ea877eacc8b83f35028b0f9",
     "https://gsyjdcg.github.io/bardiegoponce/95-es2015.e5eb4b1b01c947892c2e.js": "06f4980125c1b0b65a48ff9a8b2b8cb9b1eee6a6",
     "https://gsyjdcg.github.io/bardiegoponce/95-es5.e5eb4b1b01c947892c2e.js": "c3e0e365094705ea05c99af488f98da69ae683e8",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/data/tapas.json": "dd10d895001dc3bd39a984f6aa9e3839abb22fe0",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/data/tapas.json": "50fe04ebfae5a44cf592095f9b5914ee49044d71",
     "https://gsyjdcg.github.io/bardiegoponce/assets/icon/favicon.png": "5ad03d7694920a4cd21b509c8095262993a02cf4",
     "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-128x128.png": "9c264209346eb20c030ce348fb81e38d01c90fc0",
     "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-144x144.png": "19b2145a416415faf12a6b2189e0f8f79262291c",
@@ -417,7 +417,7 @@
     "https://gsyjdcg.github.io/bardiegoponce/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://gsyjdcg.github.io/bardiegoponce/common-es2015.0d05269b119005e7fe92.js": "ede6c6f3aee5e3b3a2f121c30fd8f40fabbdcd52",
     "https://gsyjdcg.github.io/bardiegoponce/common-es5.0d05269b119005e7fe92.js": "4e76339cb2cf9e58ec58a7ee9109cbbd546359a2",
-    "https://gsyjdcg.github.io/bardiegoponce/index.html": "4764414b1a1203bd96f7bbae6b3317e368d1f9d0",
+    "https://gsyjdcg.github.io/bardiegoponce/index.html": "f43eac953b0c140a21e485e8097add89fac28431",
     "https://gsyjdcg.github.io/bardiegoponce/main-es2015.2aeb5f61860ccbe16bf1.js": "692b8ea0be1f902bd0c830179c72390a413291ba",
     "https://gsyjdcg.github.io/bardiegoponce/main-es5.2aeb5f61860ccbe16bf1.js": "3ff03ed5304924ef358d317ef68a280d4e82424b",
     "https://gsyjdcg.github.io/bardiegoponce/manifest.webmanifest": "60833ed5b8aafabac6a0cbb67df3d746ec431836",
@@ -429,8 +429,8 @@
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-dom-es5.87674c2ba31dd21500f3.js": "7ab2cd6b4effdffaeb2371d57c1a420827298dd6",
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-es2015.f4d09162f068ef1dd55d.js": "06890b8ad7d099069b6e73dc73f64cb685f7b1fd",
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-es5.befa4caa6291a171b67f.js": "3e12f1d12795e4d176ea8339b9544c1355a6f918",
-    "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.5ddd73add8fc01051347.js": "c1609eed85485559dd3aa525ed89769d4ec8cdd3",
-    "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.5ddd73add8fc01051347.js": "707f80f9ff344892ce931949e90a7759d6c75990",
+    "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.e3e2d14dd28f15a71562.js": "85b5a1923793c69333253f1311586887b0bf64ec",
+    "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.e3e2d14dd28f15a71562.js": "a61ca3df23b53c24d4ffd0c06ac058befa1df114",
     "https://gsyjdcg.github.io/bardiegoponce/styles.78460c98c185ea7984cb.css": "1d0c089202214d96ecf28b9d270666d6e92caa5c"
   },
   "navigationUrls": [
