@@ -15,8 +15,8 @@ export class AllergensService {
   allergens: Array<Allergen> = [
     {
       "id": "1",
-      "name": "Gluten",
-      "description": "Contiene Gluten",
+      "name": "Cereales con gluten",
+      "description": "Cereales con gluten",
       "color": "gluten",
       "icon": "assets/img/pescado.svg"
     },
@@ -64,8 +64,8 @@ export class AllergensService {
     },
     {
       "id": "8",
-      "name": "Frutos de cáscara",
-      "description": "Frutos de cáscara",
+      "name": "Frutos secos",
+      "description": "Frutos secos",
       "color": "frutos-secos",
       "icon": "assets/img/pescado.svg"
     },
