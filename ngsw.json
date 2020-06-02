@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590944094273,
+  "timestamp": 1591122062526,
   "index": "https://gsyjdcg.github.io/bardiegoponce/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://gsyjdcg.github.io/bardiegoponce/16-es2015.3653d7c3f4a309fca775.js",
         "https://gsyjdcg.github.io/bardiegoponce/16-es5.3653d7c3f4a309fca775.js",
-        "https://gsyjdcg.github.io/bardiegoponce/17-es2015.df199b2acc157a333e66.js",
-        "https://gsyjdcg.github.io/bardiegoponce/17-es5.df199b2acc157a333e66.js",
+        "https://gsyjdcg.github.io/bardiegoponce/17-es2015.5a416add8c7f62945206.js",
+        "https://gsyjdcg.github.io/bardiegoponce/17-es5.5a416add8c7f62945206.js",
         "https://gsyjdcg.github.io/bardiegoponce/18-es2015.6f46a09387959d396aee.js",
         "https://gsyjdcg.github.io/bardiegoponce/18-es5.6f46a09387959d396aee.js",
         "https://gsyjdcg.github.io/bardiegoponce/19-es2015.d2e311171671cd4773d8.js",
@@ -196,9 +196,9 @@
         "https://gsyjdcg.github.io/bardiegoponce/polyfills-dom-es5.87674c2ba31dd21500f3.js",
         "https://gsyjdcg.github.io/bardiegoponce/polyfills-es2015.f4d09162f068ef1dd55d.js",
         "https://gsyjdcg.github.io/bardiegoponce/polyfills-es5.befa4caa6291a171b67f.js",
-        "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.c2844a5ef47483190bc1.js",
-        "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.c2844a5ef47483190bc1.js",
-        "https://gsyjdcg.github.io/bardiegoponce/styles.78460c98c185ea7984cb.css"
+        "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.229485388a0e04724d1c.js",
+        "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.229485388a0e04724d1c.js",
+        "https://gsyjdcg.github.io/bardiegoponce/styles.81c0114228d0582c2ed3.css"
       ],
       "patterns": []
     },
@@ -229,8 +229,8 @@
   "hashTable": {
     "https://gsyjdcg.github.io/bardiegoponce/16-es2015.3653d7c3f4a309fca775.js": "9786361b16dc02dbc04fc8503fe7fe62e18c5807",
     "https://gsyjdcg.github.io/bardiegoponce/16-es5.3653d7c3f4a309fca775.js": "8054a9f7969f34f0574b84da8fdc6e960924df17",
-    "https://gsyjdcg.github.io/bardiegoponce/17-es2015.df199b2acc157a333e66.js": "fe478b63b3ff8a3e09d56ff1ba84f205ab7b5ece",
-    "https://gsyjdcg.github.io/bardiegoponce/17-es5.df199b2acc157a333e66.js": "1fbca134346519ab11bf49c693fd6094231a75a9",
+    "https://gsyjdcg.github.io/bardiegoponce/17-es2015.5a416add8c7f62945206.js": "48b02aa80c2bdaa7d8821dd0326fc720249cdfaf",
+    "https://gsyjdcg.github.io/bardiegoponce/17-es5.5a416add8c7f62945206.js": "4e732684357d8cc66edb81442e8450996b0a9478",
     "https://gsyjdcg.github.io/bardiegoponce/18-es2015.6f46a09387959d396aee.js": "ebd578e0fc2797825aa6d4d4d3737a4e89e194db",
     "https://gsyjdcg.github.io/bardiegoponce/18-es5.6f46a09387959d396aee.js": "32951c95a022e13a3d2a11cdf6a42cdfd27d4530",
     "https://gsyjdcg.github.io/bardiegoponce/19-es2015.d2e311171671cd4773d8.js": "d8ada65420451f83924d4142f6e660065034e3db",
@@ -401,7 +401,7 @@
     "https://gsyjdcg.github.io/bardiegoponce/94-es5.448fa5d215f1815c7f13.js": "073a5a179afd2e717ea877eacc8b83f35028b0f9",
     "https://gsyjdcg.github.io/bardiegoponce/95-es2015.e5eb4b1b01c947892c2e.js": "06f4980125c1b0b65a48ff9a8b2b8cb9b1eee6a6",
     "https://gsyjdcg.github.io/bardiegoponce/95-es5.e5eb4b1b01c947892c2e.js": "c3e0e365094705ea05c99af488f98da69ae683e8",
-    "https://gsyjdcg.github.io/bardiegoponce/assets/data/tapas.json": "b68878a2c170bd0b56c7728baf1daa2a06ef5ed7",
+    "https://gsyjdcg.github.io/bardiegoponce/assets/data/tapas.json": "94cc161532467642a5db4a0242eaa9b1c22329d5",
     "https://gsyjdcg.github.io/bardiegoponce/assets/icon/favicon.png": "5ad03d7694920a4cd21b509c8095262993a02cf4",
     "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-128x128.png": "9c264209346eb20c030ce348fb81e38d01c90fc0",
     "https://gsyjdcg.github.io/bardiegoponce/assets/icons/icon-144x144.png": "19b2145a416415faf12a6b2189e0f8f79262291c",
@@ -417,7 +417,7 @@
     "https://gsyjdcg.github.io/bardiegoponce/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://gsyjdcg.github.io/bardiegoponce/common-es2015.0d05269b119005e7fe92.js": "ede6c6f3aee5e3b3a2f121c30fd8f40fabbdcd52",
     "https://gsyjdcg.github.io/bardiegoponce/common-es5.0d05269b119005e7fe92.js": "4e76339cb2cf9e58ec58a7ee9109cbbd546359a2",
-    "https://gsyjdcg.github.io/bardiegoponce/index.html": "7e9bdedcd7e6c4655bf3e3c03da738a99e4dd60a",
+    "https://gsyjdcg.github.io/bardiegoponce/index.html": "a780442bd41f3c0bafbbfa5d1f43e62870e7ec53",
     "https://gsyjdcg.github.io/bardiegoponce/main-es2015.2aeb5f61860ccbe16bf1.js": "692b8ea0be1f902bd0c830179c72390a413291ba",
     "https://gsyjdcg.github.io/bardiegoponce/main-es5.2aeb5f61860ccbe16bf1.js": "3ff03ed5304924ef358d317ef68a280d4e82424b",
     "https://gsyjdcg.github.io/bardiegoponce/manifest.webmanifest": "60833ed5b8aafabac6a0cbb67df3d746ec431836",
@@ -429,9 +429,9 @@
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-dom-es5.87674c2ba31dd21500f3.js": "7ab2cd6b4effdffaeb2371d57c1a420827298dd6",
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-es2015.f4d09162f068ef1dd55d.js": "06890b8ad7d099069b6e73dc73f64cb685f7b1fd",
     "https://gsyjdcg.github.io/bardiegoponce/polyfills-es5.befa4caa6291a171b67f.js": "3e12f1d12795e4d176ea8339b9544c1355a6f918",
-    "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.c2844a5ef47483190bc1.js": "8f4bec67426504a497bc6a5691accee05df592e0",
-    "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.c2844a5ef47483190bc1.js": "eb68e2ac9488133ada1e2e9024844128ddf5782d",
-    "https://gsyjdcg.github.io/bardiegoponce/styles.78460c98c185ea7984cb.css": "1d0c089202214d96ecf28b9d270666d6e92caa5c"
+    "https://gsyjdcg.github.io/bardiegoponce/runtime-es2015.229485388a0e04724d1c.js": "e7169f8521886d178a9135878b45ceea3a7814db",
+    "https://gsyjdcg.github.io/bardiegoponce/runtime-es5.229485388a0e04724d1c.js": "102b8f027f0cc1c106966f4268f92d11fadd4e4b",
+    "https://gsyjdcg.github.io/bardiegoponce/styles.81c0114228d0582c2ed3.css": "62f0527688314942aab9c5460376994b1c147f26"
   },
   "navigationUrls": [
     {
