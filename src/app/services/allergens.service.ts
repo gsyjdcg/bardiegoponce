@@ -110,6 +110,13 @@ export class AllergensService {
       "description": "Altramuces",
       "color": "altramuces",
       "icon": "assets/img/pescado.svg"
+    },
+    {
+      "id": "15",
+      "name": "Ajo",
+      "description": "Ajo",
+      "color": "ajo",
+      "icon": "assets/img/pescado.svg"
     }
   ];
 
