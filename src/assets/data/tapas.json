@@ -1098,8 +1098,8 @@
     },
     {
         "id": 74,
-        "name": "Revuelto de tortilla de espárragos amargueros",
-        "categoria": "Revuelto de tortilla",
+        "name": "Revuelto o tortilla de espárragos amargueros",
+        "categoria": "Revuelto o tortilla",
         "price": {
             "precio": 8.5
         },
@@ -1111,8 +1111,8 @@
     },
     {
         "id": 75,
-        "name": "Revuelto de tortilla de espárragos dulces",
-        "categoria": "Revuelto de tortilla",
+        "name": "Revuelto o tortilla de espárragos dulces",
+        "categoria": "Revuelto o tortilla",
         "price": {
             "precio": 8.5
         },
@@ -1124,8 +1124,8 @@
     },
     {
         "id": 76,
-        "name": "Revuelto de tortilla de gambas",
-        "categoria": "Revuelto de tortilla",
+        "name": "Revuelto o tortilla de gambas",
+        "categoria": "Revuelto o tortilla",
         "price": {
             "precio": 9.5
         },
@@ -1137,8 +1137,8 @@
     },
     {
         "id": 77,
-        "name": "Revuelto de tortilla de patatas",
-        "categoria": "Revuelto de tortilla",
+        "name": "Revuelto o tortilla de patatas",
+        "categoria": "Revuelto o tortilla",
         "price": {
             "precio": 8
         },
@@ -1151,7 +1151,7 @@
     {
         "id": 78,
         "name": "Tortilla especialidad de la casa (de todo)",
-        "categoria": "Revuelto de tortilla",
+        "categoria": "Revuelto o tortilla",
         "price": {
             "precio": 9.5
         },
