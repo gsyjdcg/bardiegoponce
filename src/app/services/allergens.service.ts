@@ -117,6 +117,13 @@ export class AllergensService {
       "description": "Ajo",
       "color": "ajo",
       "icon": "assets/img/pescado.svg"
+    },
+    {
+      "id": "16",
+      "name": "Puerro",
+      "description": "Puerro",
+      "color": "puerro",
+      "icon": "assets/img/pescado.svg"
     }
   ];
 
