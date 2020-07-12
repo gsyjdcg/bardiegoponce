@@ -37,6 +37,13 @@
             {{tapa.price.tapa | currency:'EUR':'symbol'}}</span>
         </p>
 
+        <p *ngIf="tapa?.price?.entero">Entero: {{tapa.price.entero | currency:'EUR':'symbol'}}
+          <span *ngIf="tapa?.price?.medio">
+            / Medio: {{tapa.price.medio | currency:'EUR':'symbol'}}</span>
+          <span *ngIf="tapa?.price?.tapa"> / Tapa:
+            {{tapa.price.tapa | currency:'EUR':'symbol'}}</span>
+        </p>
+
         <p *ngIf="tapa?.price?.precio">{{tapa.price.precio | currency:'EUR':'symbol'}}</p>
       </ion-label>
     </ion-item>

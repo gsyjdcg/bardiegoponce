@@ -12,7 +12,8 @@ export class TiposService {
   tipos: Array<Tipo> = [
     { id: 'tapas', name: 'Tapas' },
     { id: 'bocatines', name: 'Bocatines' },
-    { id: 'raciones', name: 'Raciones' }
+    { id: 'raciones', name: 'Raciones' },
+    { id: 'desayunos', name: 'Desayunos' }
   ];
 
   constructor() {
