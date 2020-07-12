@@ -6,7 +6,11 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "7", "15"]
+        "allergens": [
+            "1",
+            "7",
+            "15"
+        ]
     },
     {
         "id": 2,
@@ -15,7 +19,11 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["6", "12", "9"]
+        "allergens": [
+            "6",
+            "12",
+            "9"
+        ]
     },
     {
         "id": 3,
@@ -24,7 +32,11 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["6", "12", "9"]
+        "allergens": [
+            "6",
+            "12",
+            "9"
+        ]
     },
     {
         "id": 4,
@@ -33,7 +45,9 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 5,
@@ -42,7 +56,11 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "3", "12"]
+        "allergens": [
+            "1",
+            "3",
+            "12"
+        ]
     },
     {
         "id": 6,
@@ -51,7 +69,11 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "7", "12"]
+        "allergens": [
+            "1",
+            "7",
+            "12"
+        ]
     },
     {
         "id": 7,
@@ -60,7 +82,12 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "3", "12", "7"]
+        "allergens": [
+            "1",
+            "3",
+            "12",
+            "7"
+        ]
     },
     {
         "id": 8,
@@ -69,7 +96,11 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["7", "6", "12"]
+        "allergens": [
+            "7",
+            "6",
+            "12"
+        ]
     },
     {
         "id": 9,
@@ -78,7 +109,12 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "3", "4", "12"]
+        "allergens": [
+            "1",
+            "3",
+            "4",
+            "12"
+        ]
     },
     {
         "id": 10,
@@ -96,7 +132,12 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["3", "4", "6", "12"]
+        "allergens": [
+            "3",
+            "4",
+            "6",
+            "12"
+        ]
     },
     {
         "id": 12,
@@ -105,7 +146,15 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "12", "6", "4", "3", "2", "13"]
+        "allergens": [
+            "1",
+            "12",
+            "6",
+            "4",
+            "3",
+            "2",
+            "13"
+        ]
     },
     {
         "id": 13,
@@ -114,7 +163,10 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "4"]
+        "allergens": [
+            "1",
+            "4"
+        ]
     },
     {
         "id": 14,
@@ -123,7 +175,10 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 15,
@@ -132,7 +187,13 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "12", "7", "3", "6"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "3",
+            "6"
+        ]
     },
     {
         "id": 16,
@@ -141,7 +202,13 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["1", "12", "7", "3", "6"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "3",
+            "6"
+        ]
     },
     {
         "id": 17,
@@ -150,7 +217,10 @@
             "precio": 2
         },
         "tipo": "tapas",
-        "allergens": ["12", "7"]
+        "allergens": [
+            "12",
+            "7"
+        ]
     },
     {
         "id": 18,
@@ -160,7 +230,12 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7", "6"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "6"
+        ]
     },
     {
         "id": 19,
@@ -170,7 +245,13 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7", "6", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "6",
+            "3"
+        ]
     },
     {
         "id": 20,
@@ -180,7 +261,12 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7", "6"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "6"
+        ]
     },
     {
         "id": 21,
@@ -190,7 +276,13 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7", "6", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "6",
+            "3"
+        ]
     },
     {
         "id": 22,
@@ -200,7 +292,12 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7", "6"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "6"
+        ]
     },
     {
         "id": 23,
@@ -210,7 +307,13 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7", "6", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "6",
+            "3"
+        ]
     },
     {
         "id": 24,
@@ -220,7 +323,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 25,
@@ -230,7 +336,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "3"
+        ]
     },
     {
         "id": 26,
@@ -240,7 +350,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "3"
+        ]
     },
     {
         "id": 27,
@@ -250,7 +364,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 28,
@@ -260,7 +377,12 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7", "4"]
+        "allergens": [
+            "1",
+            "12",
+            "7",
+            "4"
+        ]
     },
     {
         "id": 29,
@@ -270,7 +392,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 30,
@@ -280,7 +405,15 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "6", "4", "7", "2", "13"]
+        "allergens": [
+            "1",
+            "12",
+            "6",
+            "4",
+            "7",
+            "2",
+            "13"
+        ]
     },
     {
         "id": 31,
@@ -290,7 +423,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "3"
+        ]
     },
     {
         "id": 32,
@@ -300,7 +437,12 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3", "2"]
+        "allergens": [
+            "1",
+            "12",
+            "3",
+            "2"
+        ]
     },
     {
         "id": 33,
@@ -310,7 +452,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 34,
@@ -320,7 +465,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7"]
+        "allergens": [
+            "1",
+            "12",
+            "7"
+        ]
     },
     {
         "id": 35,
@@ -330,7 +479,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 36,
@@ -340,7 +492,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 37,
@@ -350,7 +505,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "7"]
+        "allergens": [
+            "1",
+            "12",
+            "7"
+        ]
     },
     {
         "id": 38,
@@ -360,8 +519,12 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3", "4"]
-        
+        "allergens": [
+            "1",
+            "12",
+            "3",
+            "4"
+        ]
     },
     {
         "id": 39,
@@ -371,7 +534,12 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3", "7"]
+        "allergens": [
+            "1",
+            "12",
+            "3",
+            "7"
+        ]
     },
     {
         "id": 40,
@@ -381,7 +549,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "3"
+        ]
     },
     {
         "id": 41,
@@ -391,7 +563,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "3"
+        ]
     },
     {
         "id": 42,
@@ -401,7 +577,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "3"]
+        "allergens": [
+            "1",
+            "12",
+            "3"
+        ]
     },
     {
         "id": 43,
@@ -411,7 +591,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "4"]
+        "allergens": [
+            "1",
+            "12",
+            "4"
+        ]
     },
     {
         "id": 44,
@@ -421,7 +605,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 45,
@@ -431,7 +618,10 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 46,
@@ -441,7 +631,11 @@
             "precio": 2
         },
         "tipo": "bocatines",
-        "allergens": ["1", "12", "4"]
+        "allergens": [
+            "1",
+            "12",
+            "4"
+        ]
     },
     {
         "id": 47,
@@ -451,7 +645,9 @@
             "precio": 8.5
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 48,
@@ -461,7 +657,9 @@
             "precio": 8.5
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 49,
@@ -471,7 +669,9 @@
             "precio": 8
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 50,
@@ -481,7 +681,11 @@
             "precio": 8
         },
         "tipo": "raciones",
-        "allergens": ["1", "3", "12"]
+        "allergens": [
+            "1",
+            "3",
+            "12"
+        ]
     },
     {
         "id": 51,
@@ -491,7 +695,11 @@
             "precio": 8
         },
         "tipo": "raciones",
-        "allergens": ["1", "7", "12"]
+        "allergens": [
+            "1",
+            "7",
+            "12"
+        ]
     },
     {
         "id": 52,
@@ -501,7 +709,9 @@
             "precio": 8.5
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 53,
@@ -511,7 +721,11 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["12", "6" ,"9"]
+        "allergens": [
+            "12",
+            "6",
+            "9"
+        ]
     },
     {
         "id": 200,
@@ -521,9 +735,16 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["1", "7", "6", "3", "9", "12"]
+        "allergens": [
+            "1",
+            "7",
+            "6",
+            "3",
+            "9",
+            "12"
+        ]
     },
-        {
+    {
         "id": 201,
         "name": "Solomillo al roquefort",
         "categoria": "Segundos platos",
@@ -531,7 +752,10 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["1", "7"]
+        "allergens": [
+            "1",
+            "7"
+        ]
     },
     {
         "id": 54,
@@ -541,7 +765,9 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 55,
@@ -551,7 +777,11 @@
             "precio": 11
         },
         "tipo": "raciones",
-        "allergens": ["12", "9", "6"]
+        "allergens": [
+            "12",
+            "9",
+            "6"
+        ]
     },
     {
         "id": 56,
@@ -561,7 +791,9 @@
             "precio": 11
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 57,
@@ -571,7 +803,9 @@
             "precio": 9
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 58,
@@ -581,7 +815,16 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["3", "9", "7", "4", "2", "13", "1", "12"]
+        "allergens": [
+            "3",
+            "9",
+            "7",
+            "4",
+            "2",
+            "13",
+            "1",
+            "12"
+        ]
     },
     {
         "id": 59,
@@ -591,7 +834,11 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["1", "3", "12"]
+        "allergens": [
+            "1",
+            "3",
+            "12"
+        ]
     },
     {
         "id": 60,
@@ -601,7 +848,12 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["1", "3", "7", "12"]
+        "allergens": [
+            "1",
+            "3",
+            "7",
+            "12"
+        ]
     },
     {
         "id": 61,
@@ -611,7 +863,9 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 62,
@@ -621,7 +875,9 @@
             "precio": 8.5
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 63,
@@ -631,7 +887,11 @@
             "precio": 14
         },
         "tipo": "raciones",
-        "allergens": ["12", "6", "9"]
+        "allergens": [
+            "12",
+            "6",
+            "9"
+        ]
     },
     {
         "id": 64,
@@ -641,7 +901,11 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["12", "6", "9"]
+        "allergens": [
+            "12",
+            "6",
+            "9"
+        ]
     },
     {
         "id": 65,
@@ -651,7 +915,11 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["12", "6", "9"]
+        "allergens": [
+            "12",
+            "6",
+            "9"
+        ]
     },
     {
         "id": 66,
@@ -661,7 +929,10 @@
             "precio": 8
         },
         "tipo": "raciones",
-        "allergens": ["3", "2"]
+        "allergens": [
+            "3",
+            "2"
+        ]
     },
     {
         "id": 67,
@@ -671,7 +942,10 @@
             "precio": 8
         },
         "tipo": "raciones",
-        "allergens": ["3", "2"]
+        "allergens": [
+            "3",
+            "2"
+        ]
     },
     {
         "id": 68,
@@ -681,7 +955,10 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["2", "3"]
+        "allergens": [
+            "2",
+            "3"
+        ]
     },
     {
         "id": 69,
@@ -691,7 +968,10 @@
             "precio": 7.5
         },
         "tipo": "raciones",
-        "allergens": ["3", "7"]
+        "allergens": [
+            "3",
+            "7"
+        ]
     },
     {
         "id": 70,
@@ -701,7 +981,10 @@
             "precio": 7.5
         },
         "tipo": "raciones",
-        "allergens": ["3", "4"]
+        "allergens": [
+            "3",
+            "4"
+        ]
     },
     {
         "id": 71,
@@ -711,7 +994,9 @@
             "precio": 7.5
         },
         "tipo": "raciones",
-        "allergens": ["3"]
+        "allergens": [
+            "3"
+        ]
     },
     {
         "id": 72,
@@ -721,7 +1006,10 @@
             "precio": 7
         },
         "tipo": "raciones",
-        "allergens": ["1", "3"]
+        "allergens": [
+            "1",
+            "3"
+        ]
     },
     {
         "id": 73,
@@ -731,7 +1019,10 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["2", "3"]
+        "allergens": [
+            "2",
+            "3"
+        ]
     },
     {
         "id": 74,
@@ -741,7 +1032,10 @@
             "precio": 8.5
         },
         "tipo": "raciones",
-        "allergens": ["2", "3"]
+        "allergens": [
+            "2",
+            "3"
+        ]
     },
     {
         "id": 75,
@@ -751,7 +1045,10 @@
             "precio": 8.5
         },
         "tipo": "raciones",
-        "allergens": ["2", "3"]
+        "allergens": [
+            "2",
+            "3"
+        ]
     },
     {
         "id": 76,
@@ -761,7 +1058,10 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["2", "3"]
+        "allergens": [
+            "2",
+            "3"
+        ]
     },
     {
         "id": 77,
@@ -771,7 +1071,10 @@
             "precio": 8
         },
         "tipo": "raciones",
-        "allergens": ["12", "3"]
+        "allergens": [
+            "12",
+            "3"
+        ]
     },
     {
         "id": 78,
@@ -781,7 +1084,10 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["2", "3"]
+        "allergens": [
+            "2",
+            "3"
+        ]
     },
     {
         "id": 79,
@@ -791,7 +1097,10 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["1", "4"]
+        "allergens": [
+            "1",
+            "4"
+        ]
     },
     {
         "id": 103,
@@ -801,9 +1110,10 @@
             "precio": 12
         },
         "tipo": "raciones",
-        "allergens": ["4"]
+        "allergens": [
+            "4"
+        ]
     },
-
     {
         "id": 80,
         "name": "Pez espada a la plancha",
@@ -812,7 +1122,9 @@
             "precio": 11
         },
         "tipo": "raciones",
-        "allergens": ["4"]
+        "allergens": [
+            "4"
+        ]
     },
     {
         "id": 81,
@@ -822,9 +1134,12 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["1", "13"]
+        "allergens": [
+            "1",
+            "13"
+        ]
     },
-        {
+    {
         "id": 81,
         "name": "Chopitos plancha",
         "categoria": "Pescados y mariscos",
@@ -832,7 +1147,9 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["13"]
+        "allergens": [
+            "13"
+        ]
     },
     {
         "id": 82,
@@ -842,7 +1159,9 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["2"]
+        "allergens": [
+            "2"
+        ]
     },
     {
         "id": 83,
@@ -852,7 +1171,9 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["2"]
+        "allergens": [
+            "2"
+        ]
     },
     {
         "id": 84,
@@ -862,7 +1183,9 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["2"]
+        "allergens": [
+            "2"
+        ]
     },
     {
         "id": 85,
@@ -872,7 +1195,10 @@
             "precio": 9.5
         },
         "tipo": "raciones",
-        "allergens": ["1", "2"]
+        "allergens": [
+            "1",
+            "2"
+        ]
     },
     {
         "id": 86,
@@ -882,7 +1208,10 @@
             "precio": 6
         },
         "tipo": "raciones",
-        "allergens": ["4", "3"]
+        "allergens": [
+            "4",
+            "3"
+        ]
     },
     {
         "id": 87,
@@ -892,7 +1221,9 @@
             "precio": 8.5
         },
         "tipo": "raciones",
-        "allergens": ["7"]
+        "allergens": [
+            "7"
+        ]
     },
     {
         "id": 88,
@@ -912,7 +1243,11 @@
             "precio": 6
         },
         "tipo": "raciones",
-        "allergens": ["12", "3", "4"]
+        "allergens": [
+            "12",
+            "3",
+            "4"
+        ]
     },
     {
         "id": 90,
@@ -922,7 +1257,9 @@
             "precio": 10.5
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 91,
@@ -932,7 +1269,14 @@
             "precio": 3.5
         },
         "tipo": "raciones",
-        "allergens": ["3", "9", "7", "4", "2", "13"]
+        "allergens": [
+            "3",
+            "9",
+            "7",
+            "4",
+            "2",
+            "13"
+        ]
     },
     {
         "id": 92,
@@ -942,7 +1286,11 @@
             "precio": 4.5
         },
         "tipo": "raciones",
-        "allergens": ["7", "6", "12"]
+        "allergens": [
+            "7",
+            "6",
+            "12"
+        ]
     },
     {
         "id": 93,
@@ -952,7 +1300,12 @@
             "precio": 5
         },
         "tipo": "raciones",
-        "allergens": ["1", "3", "4", "12"]
+        "allergens": [
+            "1",
+            "3",
+            "4",
+            "12"
+        ]
     },
     {
         "id": 94,
@@ -962,7 +1315,10 @@
             "precio": 3.5
         },
         "tipo": "raciones",
-        "allergens": ["1", "12"]
+        "allergens": [
+            "1",
+            "12"
+        ]
     },
     {
         "id": 95,
@@ -972,7 +1328,12 @@
             "precio": 5.5
         },
         "tipo": "raciones",
-        "allergens": ["3", "4", "6", "12"]
+        "allergens": [
+            "3",
+            "4",
+            "6",
+            "12"
+        ]
     },
     {
         "id": 96,
@@ -982,7 +1343,15 @@
             "precio": 5.5
         },
         "tipo": "raciones",
-        "allergens": ["1", "12", "6", "4", "3", "2", "13"]
+        "allergens": [
+            "1",
+            "12",
+            "6",
+            "4",
+            "3",
+            "2",
+            "13"
+        ]
     },
     {
         "id": 97,
@@ -992,7 +1361,12 @@
             "precio": 6.5
         },
         "tipo": "raciones",
-        "allergens": ["1", "3", "12", "7"]
+        "allergens": [
+            "1",
+            "3",
+            "12",
+            "7"
+        ]
     },
     {
         "id": 98,
@@ -1002,7 +1376,9 @@
             "precio": 6
         },
         "tipo": "raciones",
-        "allergens": ["12"]
+        "allergens": [
+            "12"
+        ]
     },
     {
         "id": 99,
@@ -1012,6 +1388,334 @@
             "precio": 7
         },
         "tipo": "raciones",
-        "allergens": ["1", "7", "15"]
+        "allergens": [
+            "1",
+            "7",
+            "15"
+        ]
+    },
+    {
+        "id": 200,
+        "name": "Tostada con aceite",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 1.8,
+            "medio": 1.3
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1"
+        ]
+    },
+    {
+        "id": 201,
+        "name": "Tostada con mantequilla",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 1.8,
+            "medio": 1.3
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "7"
+        ]
+    },
+    {
+        "id": 202,
+        "name": "Tostada con pate",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 1.8,
+            "medio": 1.3
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "id": 203,
+        "name": "Tostada con sobrasada",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 1.8,
+            "medio": 1.3
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1"
+        ]
+    },
+    {
+        "id": 204,
+        "name": "Tostada con zurrapa de lomo casera",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 1.8,
+            "medio": 1.3
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1"
+        ]
+    },
+    {
+        "id": 205,
+        "name": "Tostada de queso mezcla curado",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "7"
+        ]
+    },
+    {
+        "id": 206,
+        "name": "Bocata de jamón serrano",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1"
+        ]
+    },
+    {
+        "id": 207,
+        "name": "Bocata de jamón dulce",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "id": 208,
+        "name": "Bocata mixto",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "id": 209,
+        "name": "Bocata de filete de pollo",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3.5,
+            "medio": 2.5
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1"
+        ]
+    },
+    {
+        "id": 210,
+        "name": "Bocata de tortilla francesa",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 2.5,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "id": 211,
+        "name": "Bocata de tortilla de patatas",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "3",
+            "12"
+        ]
+    },
+    {
+        "id": 212,
+        "name": "Bocata de tortilla de jamón",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3.5,
+            "medio": 2.5
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "id": 213,
+        "name": "Bocata de filete de cerdo",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3.5,
+            "medio": 2.5
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1"
+        ]
+    },
+    {
+        "id": 214,
+        "name": "Bocata de jamón al horno",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1"
+        ]
+    },
+    {
+        "id": 215,
+        "name": "Bocata de lomo adobado",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3.5,
+            "medio": 2.5
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "id": 216,
+        "name": "Bocata de bacon",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3.5,
+            "medio": 2.5
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "id": 217,
+        "name": "Bocata de caballa",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3.5,
+            "medio": 2.5
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "4"
+        ]
+    },
+    {
+        "id": 218,
+        "name": "Bocata de atún",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "4"
+        ]
+    },
+    {
+        "id": 219,
+        "name": "Bocata de lomo en manteca",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 4,
+            "medio": 3
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "15"
+        ]
+    },
+    {
+        "id": 220,
+        "name": "Bocata de chorizo",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3.5,
+            "medio": 2.5
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": 221,
+        "name": "Bocata de salchichón ibérico",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "id": 222,
+        "name": "Bocata de chorizo ibérico",
+        "categoria": "Desayunos",
+        "price": {
+            "entero": 3,
+            "medio": 2
+        },
+        "tipo": "desayunos",
+        "allergens": [
+            "1",
+            "6",
+            "7"
+        ]
     }
 ]
