@@ -1084,19 +1084,6 @@
         ]
     },
     {
-        "id": 73,
-        "name": "Tortilla especialidad de la casa (de todo)",
-        "categoria": "Tortilla",
-        "price": {
-            "precio": 9.5
-        },
-        "tipo": "raciones",
-        "allergens": [
-            "2",
-            "3"
-        ]
-    },
-    {
         "id": 74,
         "name": "Revuelto o tortilla de espárragos amargueros",
         "categoria": "Revuelto o tortilla",
@@ -1150,7 +1137,7 @@
     },
     {
         "id": 78,
-        "name": "Tortilla especialidad de la casa (de todo)",
+        "name": "Revuelto o tortilla especialidad de la casa (de todo)",
         "categoria": "Revuelto o tortilla",
         "price": {
             "precio": 9.5
@@ -1495,7 +1482,7 @@
     },
     {
         "id": 202,
-        "name": "Tostada con pate",
+        "name": "Tostada con paté",
         "categoria": "Desayunos",
         "price": {
             "entero": 1.8,
