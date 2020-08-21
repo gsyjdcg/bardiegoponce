@@ -13,14 +13,14 @@ const routes: Routes = [
       },
       {
         path: '',
-        redirectTo: '/tabs/tapas/tapas',
+        redirectTo: '/tabs/tapas/raciones',
         pathMatch: 'full'
       }
     ]
   },
   {
     path: '',
-    redirectTo: '/tabs/tapas/tapas',
+    redirectTo: '/tabs/tapas/raciones',
     pathMatch: 'full'
   }
 ];

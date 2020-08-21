@@ -24,10 +24,14 @@ export class TapasService {
     this.http.get('assets/data/tapas.json').subscribe(
       (tapas: Array<Tapa>) => {
         if (tapas?.length) {
-          this.tapas = tapas.filter(t => t.tipo === tipo);
+          if (tipo === 'bocatines') {
+            this.tapas = tapas.filter(t => t.tipo === tipo);
+          } else {
+            this.tapas = tapas.filter(t => t.tipo === tipo).sort((a: Tapa, b: Tapa) => a.name.localeCompare(b.name));
+          }
         }
       },
-      (error) => {
+      (error: any) => {
         console.log(error);
       });
   }
