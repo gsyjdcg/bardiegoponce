@@ -1190,7 +1190,7 @@
         "name": "Chopitos fritos",
         "categoria": "Pescados y mariscos",
         "price": {
-            "precio": 9.5
+            "precio": 11.5
         },
         "tipo": "raciones",
         "allergens": [
@@ -1203,7 +1203,7 @@
         "name": "Chopitos plancha",
         "categoria": "Pescados y mariscos",
         "price": {
-            "precio": 9.5
+            "precio": 11.5
         },
         "tipo": "raciones",
         "allergens": [
