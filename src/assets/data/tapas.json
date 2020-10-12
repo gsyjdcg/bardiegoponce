@@ -1342,7 +1342,7 @@
         "name": "Callos caseros con garbanzos",
         "categoria": "Sopas y platos caseros",
         "price": {
-            "precio": 4.5
+            "precio": 5
         },
         "tipo": "raciones",
         "allergens": [
