@@ -1776,5 +1776,43 @@
             "6",
             "7"
         ]
+    },
+    {
+        "id": 100,
+        "name": "Musaca casera",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 7
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 101,
+        "name": "Papas Hollywood",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 8
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 102,
+        "name": "Musaca casera",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
+    },
+    {
+        "id": 103,
+        "name": "Papas Hollywood",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
     }
 ]
