@@ -1792,13 +1792,23 @@
         "name": "Papas Hollywood",
         "categoria": "Sopas y platos caseros",
         "price": {
-            "precio": 8
+            "precio": 7.50
         },
         "tipo": "raciones",
         "allergens": []
     },
     {
         "id": 102,
+        "name": "Filetitos rusos en salsa curry",
+        "categoria": "Sopas y platos caseros",
+        "price": {
+            "precio": 8.50
+        },
+        "tipo": "raciones",
+        "allergens": []
+    },
+    {
+        "id": 103,
         "name": "Musaca casera",
         "price": {
             "precio": 2
@@ -1807,8 +1817,17 @@
         "allergens": []
     },
     {
-        "id": 103,
+        "id": 104,
         "name": "Papas Hollywood",
+        "price": {
+            "precio": 2
+        },
+        "tipo": "tapas",
+        "allergens": []
+    },
+    {
+        "id": 105,
+        "name": "Filetitos rusos en salsa curry",
         "price": {
             "precio": 2
         },
