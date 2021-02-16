@@ -6,7 +6,7 @@ export interface Tapa {
   numero: number;
   name: string;
   image?: string;
-  price: { one?: number, half?: number, tapa?: number, precio?: number, entero?: number, medio?: number };
+  price: { one?: number; half?: number; tapa?: number; precio?: number; entero?: number; medio?: number };
   tipo: string;
   allergens?: Array<string>;
 }
