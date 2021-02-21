@@ -1,22 +1,26 @@
 <ion-tabs>
   <ion-tab-bar slot="bottom" color="app">
-    <ion-tab-button tab="tapas/raciones">
-      <ion-icon size="large" name="restaurant-outline"></ion-icon>
+    <ion-tab-button tab="tapas/raciones" (click)="setSelectedTab('raciones')">
+      <ion-icon size="large" [name]="selected === 'raciones' ? 'restaurant': 'restaurant-outline'"
+        [ngClass]="{selected: selected === 'raciones'} "></ion-icon>
       <ion-label>Raciones</ion-label>
     </ion-tab-button>
 
-    <ion-tab-button tab="tapas/tapas">
-      <ion-icon size="large" name="beer-outline"></ion-icon>
+    <ion-tab-button tab="tapas/tapas" (click)="setSelectedTab('tapas')">
+      <ion-icon size="large" [name]="selected === 'tapas' ? 'beer' : 'beer-outline'"
+        [ngClass]="{selected: selected === 'tapas'} "></ion-icon>
       <ion-label>Tapas</ion-label>
     </ion-tab-button>
 
-    <ion-tab-button tab="tapas/bocatines">
-      <ion-icon size="large" name="fast-food-outline"></ion-icon>
+    <ion-tab-button tab="tapas/bocatines" (click)="setSelectedTab('bocatines')"
+      [ngClass]="{selected: selected === 'bocatines'} ">
+      <ion-icon size="large" [name]="selected === 'bocatines' ? 'fast-food' : 'fast-food-outline'"></ion-icon>
       <ion-label>Bocatines</ion-label>
     </ion-tab-button>
 
-    <ion-tab-button tab="tapas/desayunos">
-      <ion-icon size="large" name="cafe-outline"></ion-icon>
+    <ion-tab-button tab="tapas/desayunos" (click)="setSelectedTab('desayunos')"
+      [ngClass]="{selected: selected === 'desayunos'} ">
+      <ion-icon size="large" [name]="selected === 'desayunos' ? 'cafe' : 'cafe-outline'"></ion-icon>
       <ion-label>Desayunos</ion-label>
     </ion-tab-button>
   </ion-tab-bar>
