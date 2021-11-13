@@ -1147,7 +1147,7 @@
         "name": "Filete de rosada frita",
         "categoria": "Pescados y mariscos",
         "price": {
-            "precio": 12
+            "precio": 14
         },
         "tipo": "raciones",
         "allergens": [
@@ -1160,7 +1160,7 @@
         "name": "Filete de rosada a la plancha",
         "categoria": "Pescados y mariscos",
         "price": {
-            "precio": 12
+            "precio": 14
         },
         "tipo": "raciones",
         "allergens": [
@@ -1172,7 +1172,7 @@
         "name": "Pez espada a la plancha",
         "categoria": "Pescados y mariscos",
         "price": {
-            "precio": 11
+            "precio": 14
         },
         "tipo": "raciones",
         "allergens": [
