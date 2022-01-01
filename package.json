@@ -14,13 +14,13 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "~12.2.10",
-    "@angular/core": "~12.2.10",
-    "@angular/forms": "~12.2.10",
-    "@angular/platform-browser": "~12.2.10",
-    "@angular/platform-browser-dynamic": "~12.2.10",
-    "@angular/router": "~12.2.10",
-    "@angular/service-worker": "~12.2.10",
+    "@angular/common": "~13.1.1",
+    "@angular/core": "~13.1.1",
+    "@angular/forms": "~13.1.1",
+    "@angular/platform-browser": "~13.1.1",
+    "@angular/platform-browser-dynamic": "~13.1.1",
+    "@angular/router": "~13.1.1",
+    "@angular/service-worker": "~13.1.1",
     "@capacitor/android": "^3.2.5",
     "@capacitor/core": "^3.2.5",
     "@ionic-native/core": "^5.36.0",
@@ -33,16 +33,16 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~12.2.10",
+    "@angular-devkit/build-angular": "~13.1.2",
     "@angular-eslint/builder": "2.0.2",
     "@angular-eslint/eslint-plugin": "2.0.2",
     "@angular-eslint/eslint-plugin-template": "2.0.2",
     "@angular-eslint/schematics": "2.0.2",
     "@angular-eslint/template-parser": "2.0.2",
-    "@angular/cli": "~12.2.10",
-    "@angular/compiler": "~12.2.10",
-    "@angular/compiler-cli": "~12.2.10",
-    "@angular/language-service": "~12.2.10",
+    "@angular/cli": "~13.1.2",
+    "@angular/compiler": "~13.1.1",
+    "@angular/compiler-cli": "~13.1.1",
+    "@angular/language-service": "~13.1.1",
     "@capacitor/cli": "^3.2.5",
     "@ionic/angular-toolkit": "^3.1.1",
     "@types/jasmine": "^3.6.7",
@@ -64,7 +64,7 @@
     "karma-jasmine-html-reporter": "^1.5.4",
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
-    "typescript": "^4.3.5"
+    "typescript": "^4.5.4"
   },
   "description": "Carta del Restaurante Bar Diego Ponce"
 }
