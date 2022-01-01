@@ -1411,7 +1411,7 @@
         "name": "Migas caseras de pan",
         "categoria": "Sopas y platos caseros",
         "price": {
-            "precio": 6.5
+            "precio": 7.5
         },
         "tipo": "raciones",
         "allergens": [
@@ -1635,19 +1635,6 @@
         "price": {
             "entero": 3.5,
             "medio": 2.5
-        },
-        "tipo": "desayunos",
-        "allergens": [
-            "1"
-        ]
-    },
-    {
-        "id": 214,
-        "name": "Bocata de jamón al horno",
-        "categoria": "Desayunos",
-        "price": {
-            "entero": 3,
-            "medio": 2
         },
         "tipo": "desayunos",
         "allergens": [
