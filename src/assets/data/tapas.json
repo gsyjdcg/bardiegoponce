@@ -1018,7 +1018,7 @@
         "name": "Tortilla de gambas",
         "categoria": "Tortilla",
         "price": {
-            "precio": 9.5
+            "precio": 12
         },
         "tipo": "raciones",
         "allergens": [
@@ -1108,7 +1108,7 @@
         "name": "Revuelto o tortilla de gambas",
         "categoria": "Revuelto o tortilla",
         "price": {
-            "precio": 9.5
+            "precio": 12
         },
         "tipo": "raciones",
         "allergens": [
@@ -1184,7 +1184,7 @@
         "name": "Chopitos fritos",
         "categoria": "Pescados y mariscos",
         "price": {
-            "precio": 11.5
+            "precio": 14
         },
         "tipo": "raciones",
         "allergens": [
@@ -1197,7 +1197,7 @@
         "name": "Chopitos plancha",
         "categoria": "Pescados y mariscos",
         "price": {
-            "precio": 11.5
+            "precio": 14
         },
         "tipo": "raciones",
         "allergens": [
@@ -1307,7 +1307,7 @@
         "name": "Bandeja de embutido ibérico",
         "categoria": "Entremeses",
         "price": {
-            "precio": 10.5
+            "precio": 18
         },
         "tipo": "raciones",
         "allergens": [
@@ -1411,7 +1411,7 @@
         "name": "Migas caseras de pan",
         "categoria": "Sopas y platos caseros",
         "price": {
-            "precio": 6.5
+            "precio": 7.5
         },
         "tipo": "raciones",
         "allergens": [
@@ -1635,19 +1635,6 @@
         "price": {
             "entero": 3.5,
             "medio": 2.5
-        },
-        "tipo": "desayunos",
-        "allergens": [
-            "1"
-        ]
-    },
-    {
-        "id": 214,
-        "name": "Bocata de jamón al horno",
-        "categoria": "Desayunos",
-        "price": {
-            "entero": 3,
-            "medio": 2
         },
         "tipo": "desayunos",
         "allergens": [
