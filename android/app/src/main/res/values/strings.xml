@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">bardiegoponce</string>
-    <string name="title_activity_main">bardiegoponce</string>
-    <string name="package_name">www.bardiegoponce.com</string>
-    <string name="custom_url_scheme">www.bardiegoponce.com</string>
-</resources>
