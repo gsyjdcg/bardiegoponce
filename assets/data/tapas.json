@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Lasaña casera",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -16,7 +16,7 @@
         "id": 2,
         "name": "Carne en salsa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -29,7 +29,7 @@
         "id": 3,
         "name": "Carne con tomate",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -42,7 +42,7 @@
         "id": 4,
         "name": "Menudillo de pollo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -53,7 +53,7 @@
         "id": 5,
         "name": "Albóndigas con tomate",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -66,7 +66,7 @@
         "id": 6,
         "name": "Chorizo al vino",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -79,7 +79,7 @@
         "id": 7,
         "name": "Migas caseras de pan",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -93,7 +93,7 @@
         "id": 8,
         "name": "Callos con garbanzos",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -106,7 +106,7 @@
         "id": 9,
         "name": "Porra con huevo y jamón",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -120,7 +120,7 @@
         "id": 10,
         "name": "Pimientos asados",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": ["4", "7", "12"]
@@ -129,7 +129,7 @@
         "id": 11,
         "name": "Ensaladilla rusa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -143,7 +143,7 @@
         "id": 12,
         "name": "Ensaladilla de marisco",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -160,7 +160,7 @@
         "id": 13,
         "name": "Pincho de caballa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -172,7 +172,7 @@
         "id": 14,
         "name": "Mini hamburgesa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -184,7 +184,7 @@
         "id": 15,
         "name": "Mini San Jacobo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -199,7 +199,7 @@
         "id": 16,
         "name": "Mini flamenquín",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -214,7 +214,7 @@
         "id": 17,
         "name": "Mitad y midad de jamón y queso",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -226,7 +226,7 @@
         "id": 301,
         "name": "Croquetas de queso de cabra con cebolla caramelizada",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -241,7 +241,7 @@
         "id": 302,
         "name": "Croquetas de solomillo al Pedro Jiménez",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": ["1", "2", "3", "4", "7", "9", "13" ]
@@ -250,7 +250,7 @@
         "id": 303,
         "name": "Croquetas con gambas al pilpil",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -265,7 +265,7 @@
         "id": 304,
         "name": "Berenjenas rellenas de queso de cabra con miel de caña",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -280,7 +280,7 @@
         "id": 305,
         "name": "Pincho de gamba a la plancha",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": [
@@ -293,7 +293,7 @@
         "numero": 1,
         "name": "Bacon y queso",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -308,7 +308,7 @@
         "numero": 2,
         "name": "Bacon con huevo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -324,7 +324,7 @@
         "numero": 3,
         "name": "Guarrito con queso",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -339,7 +339,7 @@
         "numero": 4,
         "name": "Guarrito con huevo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -355,7 +355,7 @@
         "numero": 5,
         "name": "Lomo adobado y queso",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -370,7 +370,7 @@
         "numero": 6,
         "name": "Lomo adobado y huevo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -386,7 +386,7 @@
         "numero": 7,
         "name": "Pollo, jamón y pimiento",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -399,7 +399,7 @@
         "numero": 8,
         "name": "Chorizo, huevo y pimiento",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -413,7 +413,7 @@
         "numero": 9,
         "name": "Lomo con huevo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -427,7 +427,7 @@
         "numero": 10,
         "name": "Lomo, jamón y pimiento",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -440,7 +440,7 @@
         "numero": 11,
         "name": "Anchoas y roquefort",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -455,7 +455,7 @@
         "numero": 12,
         "name": "Boquerones en vinagre con morrón",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -468,7 +468,7 @@
         "numero": 13,
         "name": "Atún, boquitas, lechuga y mahonesa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -486,7 +486,7 @@
         "numero": 14,
         "name": "Huevo duro, lechuga morrón y mahonesa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -500,7 +500,7 @@
         "numero": 15,
         "name": "Gamba, lechuga y salsa rosa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -515,7 +515,7 @@
         "numero": 16,
         "name": "Jamón reserva",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -528,7 +528,7 @@
         "numero": 17,
         "name": "Queso mezcla",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -542,7 +542,7 @@
         "numero": 18,
         "name": "Filete de pollo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -555,7 +555,7 @@
         "numero": 19,
         "name": "Filete de cerdo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -568,7 +568,7 @@
         "numero": 20,
         "name": "Tortilla de patatas",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -582,7 +582,7 @@
         "numero": 21,
         "name": "Tortilla de atún",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -597,7 +597,7 @@
         "numero": 22,
         "name": "Tortilla de queso",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -612,7 +612,7 @@
         "numero": 23,
         "name": "Tortilla de jamón",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -626,7 +626,7 @@
         "numero": 24,
         "name": "Tortilla francesa",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -640,7 +640,7 @@
         "numero": 25,
         "name": "Tortilla de chorizo",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -654,7 +654,7 @@
         "numero": 26,
         "name": "Caballa con tomate natural",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -668,7 +668,7 @@
         "numero": 27,
         "name": "Lomo en manteca",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -681,7 +681,7 @@
         "numero": 28,
         "name": "Chorizo al vino",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -694,7 +694,7 @@
         "numero": 29,
         "name": "Atún con tomate",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "bocatines",
         "allergens": [
@@ -1438,7 +1438,7 @@
         "name": "Lasaña casera",
         "categoria": "Sopas y platos caseros",
         "price": {
-            "precio": 7
+            "precio": 8.5
         },
         "tipo": "raciones",
         "allergens": [
@@ -1792,7 +1792,7 @@
         "id": 103,
         "name": "Musaca casera",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": ["7"]
@@ -1801,7 +1801,7 @@
         "id": 104,
         "name": "Papas Hollywood",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": ["6", "7", "12"]
@@ -1810,7 +1810,7 @@
         "id": 105,
         "name": "Filetitos rusos en salsa curry",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": ["1", "3", "8", "9", "10", "15" ]
@@ -1819,7 +1819,7 @@
         "id": 106,
         "name": "Croquetas de puchero",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": ["1", "2", "3", "4", "7", "9", "13" ]
@@ -1828,7 +1828,7 @@
         "id": 107,
         "name": "Croquetas de jamón",
         "price": {
-            "precio": 2
+            "precio": 2.5
         },
         "tipo": "tapas",
         "allergens": ["1", "2", "3", "4", "7", "9", "13" ]
