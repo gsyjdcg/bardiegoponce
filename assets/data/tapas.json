@@ -772,7 +772,7 @@
         "name": "Taco de lomo en manteca",
         "categoria": "Segundos platos",
         "price": {
-            "precio": 8.5
+            "precio": 9
         },
         "tipo": "raciones",
         "allergens": [
@@ -828,7 +828,7 @@
         "name": "Secreto ibérico",
         "categoria": "Segundos platos",
         "price": {
-            "precio": 14
+            "precio": 16
         },
         "tipo": "raciones",
         "allergens": [
