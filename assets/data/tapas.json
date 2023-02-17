@@ -858,6 +858,7 @@
         },
         "tipo": "raciones",
         "allergens": [
+          "1",
             "12"
         ]
     },
