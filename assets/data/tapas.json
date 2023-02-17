@@ -969,6 +969,7 @@
         },
         "tipo": "raciones",
         "allergens": [
+            "1",
             "12",
             "6",
             "9"
@@ -983,6 +984,7 @@
         },
         "tipo": "raciones",
         "allergens": [
+            "1",
             "12",
             "6",
             "9"
